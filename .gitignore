@@ -1,0 +1,23 @@
+# binary
+server
+
+# database
+*.db
+data/
+
+# environment
+.env
+
+# Go
+*.test
+*.out
+vendor/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
